@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing PUBG and learning new tech
+- ⚡ Fun fact: I love playing COD
 
 ### Connect with me:
 
