@@ -13,13 +13,11 @@
 ### Connect with me:
 
 [<img align="left" style =" padding:5px;" alt="omkumar01 | Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" style =" padding:5px;" alt="heap-tech | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" style =" padding:5px;" alt="omkumar01 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" style =" padding:5px;" alt="om-sahu | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style =" padding:5px;" alt="thisis_om | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-<br />
 
 ---
 
@@ -35,39 +33,36 @@
 
 [<img align="left" style =" padding:5px;" alt="Django" width="30px" src="https://img.icons8.com/color/48/000000/django.png" />][dead]
 
-[<img align="left" style =" padding:5px;" alt="" width="30px" src="" />][dead]
+[<img align="left" style =" padding:5px;" alt="javascript" width="30px" src="https://img.icons8.com/dusk/64/000000/javascript.png" />][dead]
 
-[<img align="left" style =" padding:5px;" alt="" width="30px" src="" />][dead]
+[<img align="left" style =" padding:5px;"  alt="system administration" width="30px" src="https://img.icons8.com/dusk/64/000000/server.png" />][dead]
 
-[<img align="left" style =" padding:5px;" alt="" width="30px" src="" />][dead]
+[<img align="left" style =" padding:5px;" alt="wordpress" width="30px" src="https://img.icons8.com/dusk/64/000000/wordpress.png" />][dead]
 
-[<img align="left" style =" padding:5px;" alt="" width="30px" src="" />][dead]
+[<img align="left" style =" padding:5px;" alt="Docker" width="30px" src="https://img.icons8.com/color/48/000000/docker.png" />][dead]
 
-[<img align="left" style =" padding:5px;" alt="" width="30px" src="" />][dead]
+[<img align="left" style =" padding:5px;" alt="postman" width="30px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />][dead]
 
-[<img align="left" style =" padding:5px;" alt="" width="30px" src="" />][dead]
+[<img align="left" style =" padding:5px;" alt="django rest api" width="30px" src="https://img.icons8.com/nolan/64/api-settings.png" />][dead]
 
-[<img align="left" style =" padding:5px;" alt="" width="30px" src="" />][dead]
+[<img align="left" style =" padding:5px;" alt="git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />][dead]
 
 <br />
-<br />
 
----
 
----
 
-<!--### 📕 Latest Blog Posts
- BLOG-POST-LIST:START --
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
+### 📕 Latest Blog Posts
+
+- [How technology has changed the world positively?](https://heapoftech.live/technologies/how-technology-has-changed-the-world/)
+- [Technology, What is the real meaning of technology?](https://heapoftech.live/technologies/the-real-meaning-of-technology/)
+- [How Does EdTech Help Students & Teachers?](https://heapoftech.live/technologies/edtech/)
+- [How does blockchain work?](https://heapoftech.live/cryptography-and-blockchain/blockchain/)
+- [Cybersafety tips – protect yourself against cyberattacks](https://heapoftech.live/security/cyber-security/)
+- [What is an Open Source?](https://heapoftech.live/open-source/open-source-contribution/)
+
 
 [github]: https://github.com/omkumar01
-[twitter]: https://twitter.com/omkumar39344246
-[youtube]: #
+[twitter]: https://twitter.com/thisisom1
 [instagram]: https://www.instagram.com/thisis_om_
 [linkedin]: https://linkedin.com/in/thisisom
 [dead]: #
