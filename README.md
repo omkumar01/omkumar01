@@ -63,6 +63,8 @@
 
 ### 📕 Latest Blog Posts
 
+- [Best Ways To Spend Your Free Time: Part 1](https://heapoftech.live/uncategorized/best-ways-to-spend-your-free-time/)
+- [WhatsApp – New privacy policy](https://heapoftech.live/uncategorized/whatsapp-new-privacy-policy/)
 - [How technology has changed the world positively?](https://heapoftech.live/technologies/how-technology-has-changed-the-world/)
 - [Technology, What is the real meaning of technology?](https://heapoftech.live/technologies/the-real-meaning-of-technology/)
 - [How Does EdTech Help Students & Teachers?](https://heapoftech.live/technologies/edtech/)
