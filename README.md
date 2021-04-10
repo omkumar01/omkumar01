@@ -2,7 +2,7 @@
 
 ## I'm a LEARNER AND A DEVLOPER!
 
-- 🔭 I’m currently working on a Django website!
+- 🔭 I’m currently working on a SEO Audit API!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
