@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a SEO Audit API!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing COD mobile
 
@@ -59,7 +59,7 @@
 <br />
 
 ---
-
+<br/>
 
 ### 📕 Latest Blog Posts
 
