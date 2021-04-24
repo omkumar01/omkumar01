@@ -2,11 +2,11 @@
 
 ## I'm a LEARNER AND A DEVLOPER!
 
-- 🔭 I’m currently working on a SEO Audit API!
+- 🔭 I’m currently working on a SEO Audit Tool!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing COD mobile
+- ⚡ Fun fact: I love playing CS-Go
 
 
 <br>
