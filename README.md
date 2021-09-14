@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing CS-Go
+- ⚡ Fun fact: I love playing Rust and No man's sky
 
 
 <br>
