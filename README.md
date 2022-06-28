@@ -5,14 +5,14 @@
 - 🔭 I’m currently working on a SEO Audit Tool!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing Rust and No man's sky
 
 
 <br>
 
 <p align=left>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=highcontrast">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=tokyonight">
 </p>
 
 
