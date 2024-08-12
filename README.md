@@ -2,10 +2,8 @@
 
 ## I'm a LEARNER AND A DEVLOPER!
 
-- 🔭 I’m currently working on a SEO Audit Tool!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing Rust and No man's sky
 
 
@@ -60,17 +58,6 @@
 
 ---
 <br/>
-
-### 📕 Latest Blog Posts
-
-- [Best Ways To Spend Your Free Time: Part 1](https://heapoftech.live/uncategorized/best-ways-to-spend-your-free-time/)
-- [WhatsApp – New privacy policy](https://heapoftech.live/uncategorized/whatsapp-new-privacy-policy/)
-- [How technology has changed the world positively?](https://heapoftech.live/technologies/how-technology-has-changed-the-world/)
-- [Technology, What is the real meaning of technology?](https://heapoftech.live/technologies/the-real-meaning-of-technology/)
-- [How Does EdTech Help Students & Teachers?](https://heapoftech.live/technologies/edtech/)
-- [How does blockchain work?](https://heapoftech.live/cryptography-and-blockchain/blockchain/)
-- [Cybersafety tips – protect yourself against cyberattacks](https://heapoftech.live/security/cyber-security/)
-- [What is an Open Source?](https://heapoftech.live/open-source/open-source-contribution/)
 
 
 [github]: https://github.com/omkumar01
