@@ -21,11 +21,24 @@ A **Software Developer** with 3+ years of experience building scalable microserv
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="left">
+
+![Visits](https://img.shields.io/badge/Profile%20Visits-0-blue?style=flat-square)
+![Followers](https://img.shields.io/github/followers/omkumar01?style=flat-square&label=Followers&color=blue)
+![Stars](https://img.shields.io/github/stars/omkumar01?style=flat-square&label=Total%20Stars&color=brightgreen)
+
+</div>
+
+<div align="left">
+
+**📈 GitHub Activity**
+
+- ⭐ Check out my [GitHub Profile](https://github.com/omkumar01) for more projects
+- 🔗 [View my repositories](https://github.com/omkumar01?tab=repositories)
+- 💬 [Explore my contributions](https://github.com/omkumar01?tab=contributions)
+
 </div>
 
 ---
