@@ -1,67 +1,174 @@
-### Hi there, I'm OM KUMAR SAHU 👋
+# 👋 Hi, I'm OM KUMAR SAHU
 
-## I'm a LEARNER AND A DEVLOPER!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate
-- ⚡ Fun fact: I love playing Rust and No man's sky
-
-
-<br>
-
-<p align=left>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=tokyonight">
-</p>
-
-
-
-### Connect with me:
-
-[<img align="left" style =" padding:5px;" alt="omkumar01 | Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" style =" padding:5px;" alt="omkumar01 | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" style =" padding:5px;" alt="om-sahu | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" style =" padding:5px;" alt="thisis_om | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Engineer;Python+%26+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
-### Languages and Tools:
+## 🚀 About Me
 
-[<img align="left" style =" padding:5px;" alt="VS Code" width="35px" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-insides.png" />][dead]
+A **Software Developer** with 3+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. Currently working at **Amdocs**, I specialize in **Python**, **Java**, **AWS**, and **Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
 
-[<img align="left" style =" padding:5px;" alt="HTML5" width="35px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>][dead]
-
-[<img align="left" style =" padding:5px;" alt="CSS3" width="35px" src="https://img.icons8.com/dusk/64/000000/css3.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="python" width="35px" src="https://img.icons8.com/dusk/64/000000/python.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="Django" width="35px" src="https://img.icons8.com/color/48/000000/django.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="javascript" width="35px" src="https://img.icons8.com/dusk/64/000000/javascript.png" />][dead]
-
-[<img align="left" style =" padding:5px;"  alt="system administration" width="35px" src="https://img.icons8.com/dusk/64/000000/server.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="wordpress" width="35px" src="https://img.icons8.com/dusk/64/000000/wordpress.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="Docker" width="35px" src="https://img.icons8.com/color/48/000000/docker.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="postman" width="35px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="django rest api" width="35px" src="https://img.icons8.com/nolan/64/api-settings.png" />][dead]
-
-[<img align="left" style =" padding:5px;" alt="git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />][dead]
-
-<br />
-
-<br />
+- 💼 **Current Role**: Software Developer at Amdocs
+- 🎯 **Focus**: Microservices, Cloud Architecture, DevOps, Backend Development
+- 🌱 **Continuous Learning**: Exploring advanced cloud patterns and distributed systems
+- 👯 **Looking to Collaborate**: On open-source projects and innovative solutions
+- ⚡ **Fun Fact**: Love playing Rust and No Man's Sky during downtime
 
 ---
-<br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/omkumar01">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/omkumar01">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🚀 **Frameworks & Libraries**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🗄️ **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### 🎯 **Software Developer** | Amdocs
+**Jan 2024 – Present** | Maharashtra, India
+
+- ✅ Implemented business requests by creating and deploying application images on **Kubernetes clusters** for the Openet project
+- ✅ Automated end-to-end processes using **Python & Shell scripting**, reducing manual effort by **40%**
+- ✅ Developed and optimized **Python scripts for Jenkins job automation**, improving deployment efficiency by **30%**
+- ✅ Developed **RESTful APIs** and contributed to microservices-based architecture for scalable backend solutions
+- ✅ Orchestrated cloud migration of **Amdocs Billing Product** to AWS
+- ✅ Debugged and monitored **Diameter failures** using Elastic Kibana, improving system reliability by **20%**
+
+### 📋 **Software Engineering Associate** | Amdocs
+**Jun 2022 – Dec 2023** | Maharashtra, India
+
+- ✅ Actively participated in **Agile/Scrum ceremonies** and sprint management
+- ✅ Developed and enhanced the **Ordering Management System (OMS)** using **Java EE** and Oracle DB
+- ✅ Implemented change requests (CRs) and fixed critical bugs ensuring production stability
+- ✅ Developed automation scripts in **Python** for recurring tasks
+- ✅ Optimized code for performance and quality, ensuring **SonarQube compliance**
+- ✅ Performed UT and IUT for developed functionality
+- ✅ Acquired in-depth business knowledge in telecom industry (ordering, invoicing, charging processes)
+
+### 🎓 **Programmer Analyst Trainee** | Cognizant
+**Jan 2022 – May 2022** | Remote
+
+- ✅ Comprehensive training in **Agile methodologies** and best practices
+- ✅ Hands-on experience with **Java EE technologies** and development lifecycle
+- ✅ Strong understanding of software development and collaborative project management
+
+### 💻 **Full Stack Developer Intern** | BimaXpress
+**May 2021 – Jun 2022** | Remote
+
+- ✅ Developed **Python-Django application** integrated with Firebase
+- ✅ Deployed applications on **AWS EC2** ensuring seamless performance and scalability
+- ✅ Gained hands-on experience in full-stack development and cloud deployment
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **Bachelor of Technology** | Oriental College of Technology, Bhopal, M.P | 2022 |
+| **10+2 (Mathematics)** | RD Public School (CBSE), Betul, M.P | 2018 |
+
+---
+
+## 📜 Certifications
+
+- 🏆 **Programming for Everybody** – University of Michigan (Coursera)
+- 🏆 **Modern JavaScript: ES6 Basics** – Coursera
+- 🏆 **Command Line in Linux** – Coursera
+
+---
+
+## 👥 Leadership & Community
+
+### 🎤 **President** | Full Stack Club
+**Jul 2021 – May 2022** | Oriental College of Technology, Bhopal
+
+- Organized events and webinars fostering collaborative learning
+- Planned and executed activities enhancing full-stack development knowledge
+- Promoted community engagement and peer learning
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📞 Contact Information
+
+**📧 Email:** omkumarsahu747@gmail.com  
+**📱 Phone:** +919226347015  
+**📍 Location:** Pune, Maharashtra, India
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ Show Some Love
+If you find my work interesting, don't forget to ⭐ this repository!
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=omkumar01.omkumar01)
+
+</div>
+
+---
 
 [github]: https://github.com/omkumar01
 [twitter]: https://twitter.com/thisisom1
 [instagram]: https://www.instagram.com/thisis_om_
 [linkedin]: https://linkedin.com/in/thisisom
-[dead]: #
+[email]: mailto:omkumarsahu747@gmail.com
