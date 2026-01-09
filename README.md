@@ -161,8 +161,6 @@ A **Software Developer** with 3+ years of experience building scalable microserv
 ### 📞 Contact Information
 
 **📧 Email:** omkumarsahu747@gmail.com  
-**📱 Phone:** +919226347015  
-**📍 Location:** Pune, Maharashtra, India
 
 </div>
 
