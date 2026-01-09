@@ -1,7 +1,10 @@
 # 👋 Hi, I'm OM KUMAR SAHU
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Engineer;Python+%26+Enthusiast" alt="Typing SVG" />
+  <h3>💻 Software Developer | 🚀 Backend Engineer | ☁️ DevOps Engineer</h3>
+  <p>
+    <strong>Python</strong> • <strong>Java</strong> • <strong>AWS</strong> • <strong>Kubernetes</strong> • <strong>Django</strong> • <strong>FastAPI</strong>
+  </p>
 </div>
 
 ---
@@ -21,12 +24,8 @@ A **Software Developer** with 3+ years of experience building scalable microserv
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/omkumar01">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/omkumar01">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkumar01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
