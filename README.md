@@ -3,7 +3,7 @@
 <div align="center">
   <h3>💻 Software Developer | 🚀 Backend Engineer | ☁️ DevOps Engineer</h3>
   <p>
-    <strong>Python</strong> • <strong>AWS</strong> • <strong>Kubernetes</strong> • <strong>Django</strong> • <strong>FastAPI</strong>
+    <strong>Python</strong> • <strong>AWS</strong> • <strong>Kubernetes</strong> • <strong>FastAPI</strong>
   </p>
 </div>
 
