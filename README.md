@@ -77,7 +77,9 @@ A **Software Developer** with 3+ years of experience building scalable microserv
 
 ### 📄 OnlinePDFEditors
 
-> A modern, privacy-first online PDF toolkit built with **Astro + TypeScript** and powered by **Cloudflare Workers**.
+> A modern, privacy-first online PDF toolkit built with **Astro + TypeScript** and powered by **Cloudflare Workers**. Files are processed directly in the browser whenever possible, ensuring speed and enhanced privacy without requiring software installation.
+
+**Tech Stack:** Astro • TypeScript • Cloudflare Workers
 
 - ⚡ Fast edge deployment
 - 🔒 Privacy-focused browser-based processing
@@ -92,7 +94,7 @@ A **Software Developer** with 3+ years of experience building scalable microserv
 ## 💼 Professional Experience
 
 ### 🎯 **Software Developer** | Amdocs
-**Jan 2024 – Present** | Maharashtra, India
+**Jan 2024 – April 2026** | Maharashtra, India
 
 - ✅ Implemented business requests by creating and deploying application images on **Kubernetes clusters** for the Openet project
 - ✅ Automated end-to-end processes using **Python & Shell scripting**, reducing manual effort by **40%**
