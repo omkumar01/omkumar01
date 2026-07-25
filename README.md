@@ -3,7 +3,7 @@
 <div align="center">
   <h3>💻 Software Developer | 🚀 Backend Engineer | ☁️ DevOps Engineer</h3>
   <p>
-    <strong>Python</strong> • <strong>Java</strong> • <strong>AWS</strong> • <strong>Kubernetes</strong> • <strong>Django</strong> • <strong>FastAPI</strong>
+    <strong>Python</strong> • <strong>AWS</strong> • <strong>Kubernetes</strong> • <strong>Django</strong> • <strong>FastAPI</strong>
   </p>
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-A **Software Developer** with 3+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. Currently working at **Amdocs**, I specialize in **Python**, **Java**, **AWS**, and **Docker+Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
+A **Software Developer** with 3+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. Currently working at **Amdocs**, I specialize in **Python**, **AWS**, and **Docker+Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
 
 - 💼 **Current Role**: Software Developer at Amdocs
 - 🎯 **Focus**: Microservices, Cloud Architecture, DevOps, Backend Development
@@ -47,7 +47,6 @@ A **Software Developer** with 3+ years of experience building scalable microserv
 
 ### 💻 **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -74,6 +73,21 @@ A **Software Developer** with 3+ years of experience building scalable microserv
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
+## 💼 Projects
+
+### 📄 OnlinePDFEditors
+
+> A modern, privacy-first online PDF toolkit built with **Astro + TypeScript** and powered by **Cloudflare Workers**.
+
+- ⚡ Fast edge deployment
+- 🔒 Privacy-focused browser-based processing
+- 📑 Merge, Split, Compress, Convert & Organize PDFs
+- 🖼️ PDF ↔ Image conversion
+- 💧 Watermarks, page numbers & PDF security
+
+**Tech:** `Astro` · `TypeScript` · `Cloudflare Workers`
+
+🌐 https://onlinepdfeditors.com
 
 ## 💼 Professional Experience
 
