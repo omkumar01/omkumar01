@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-A **Software Developer** with 3+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. Currently working at **Amdocs**, I specialize in **Python**, **AWS**, and **Docker+Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
+A **Software Developer** with 4+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. Currently working at **Amdocs**, I specialize in **Python**, **AWS**, and **Docker+Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
 
 - 💼 **Current Role**: Software Developer at Amdocs
 - 🎯 **Focus**: Microservices, Cloud Architecture, DevOps, Backend Development
