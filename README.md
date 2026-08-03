@@ -183,9 +183,7 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 ---
 
 <div align="center">
-  
-### ⭐ Show Some Love
-If you find my work interesting, don't forget to ⭐ this repository!
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=omkumar01.omkumar01)
 
