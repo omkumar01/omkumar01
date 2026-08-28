@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](https://github.com/omkumar01/omkumar01/raw/main/assets/github-profile-banner.png)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0f4c75%2C1a535c%2C4a7c59&height=200&section=header&text=Om%20Kumar%20Sahu&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60&descSize=16)
 
 </div>
 
@@ -40,9 +40,9 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=omkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omkumar01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=omkumar01&theme=tokyonight&hide_border=true)
 
@@ -202,14 +202,6 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 ### 📞 Contact Information
 
 **📧 Email:** omkumarsahu747@gmail.com
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Counter](https://profile-counter.glitch.me/{omkumar01}/count.svg)
 
 </div>
 
