@@ -1,43 +1,50 @@
-# 👋 Hi, I'm OM KUMAR SAHU
+# 👋 Hi, I'm **Om Kumar Sahu**
 
 <div align="center">
-  <h3>💻 Software Developer | 🚀 Backend Engineer | ☁️ DevOps Engineer</h3>
-  <p>
-    <strong>Python</strong> • <strong>FastAPI</strong> • <strong>AWS</strong> • <strong>Kubernetes</strong> 
-  </p>
+
+![Profile Banner](https://github.com/omkumar01/omkumar01/raw/main/assets/github-profile-banner.png)
+
+</div>
+
+<div align="center">
+
+<h3>💻 Software Developer | 🚀 Backend Engineer | ☁️ DevOps Engineer | 🤖 AI Enthusiast</h3>
+
+<p>
+  <strong>Python</strong> • <strong>FastAPI</strong> • <strong>AWS</strong> • <strong>Kubernetes</strong> • <strong>Agentic AI</strong> • <strong>RAG</strong> • <strong>LLM</strong>
+</p>
+
+[![GitHub Follow](https://img.shields.io/github/followers/omkumar01?label=Followers&style=social&color=blue)](https://github.com/sponsors/omkumar01)
+[![GitHub Stars](https://img.shields.io/github/stars/omkumar01?label=Total%20Stars&style=social)](https://github.com/omkumar01)
+[![Profile Views](https://komarev.com/ghpvc/?username=omkumar01&label=Profile%20Views&style=flat&color=blue)](https://github.com/omkumar01)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-A **Software Developer** with 4+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. Currently working at **Amdocs**, I specialize in **Python**, **AWS**, and **Docker+Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
+A **Software Developer** with 4+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. I specialize in **Python**, **AWS**, and **Docker+Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
 
-- 💼 **Current Role**: Software Developer at Amdocs
-- 🎯 **Focus**: Microservices, Cloud Architecture, DevOps, Backend Development
-- 🌱 **Continuous Learning**: Exploring advanced cloud patterns and distributed systems
-- 👯 **Looking to Collaborate**: On open-source projects and innovative solutions
+I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieval-Augmented Generation)**, and **LLM** applications — building intelligent systems that can reason, retrieve, and respond.
+
+- 💼 **Professional experience**: Software Developer at Amdocs (Jan 2024 – April 2026)
+- 🎯 **Focus**: Microservices, Cloud Architecture, DevOps, Backend Development, AI/ML
+- 🌱 **Continuous Learning**: Exploring advanced cloud patterns, distributed systems, and AI engineering
+- 👯 **Looking to Collaborate**: On open-source projects and innovative AI solutions
 - ⚡ **Fun Fact**: Love playing Rust and No Man's Sky during downtime
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="left">
+<div align="center">
 
-![Visits](https://img.shields.io/badge/Profile%20Visits-0-blue?style=flat-square)
-![Followers](https://img.shields.io/github/followers/omkumar01?style=flat-square&label=Followers&color=blue)
-![Stars](https://img.shields.io/github/stars/omkumar01?style=flat-square&label=Total%20Stars&color=brightgreen)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-<div align="left">
-
-**📈 GitHub Activity**
-
-- ⭐ Check out my [GitHub Profile](https://github.com/omkumar01) for more projects
-- 🔗 [View my repositories](https://github.com/omkumar01?tab=repositories)
-- 💬 [Explore my contributions](https://github.com/omkumar01?tab=contributions)
+![GitHub Streak](https://streak-stats.demolab.com/?user=omkumar01&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -48,14 +55,18 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 ### 💻 **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat-square&logo=shell&logoColor=white)
 
 ### 🚀 **Frameworks & Libraries**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### ☁️ **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -63,15 +74,28 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B49BC?style=flat-square&logo=terraform&logoColor=white)
+
+### 🤖 **Agentic AI, RAG & LLM**
+![LangChain](https://img.shields.io/badge/-LangChain-12BDFF?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412AD8?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-00A6ED?style=flat-square&logo=llm&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FF6B35?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-00C9A7?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD166?style=flat-square&logo=huggingface&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-121E87?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
 
 ### 🗄️ **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
+
 ## 💼 Projects
 
 ### 📄 OnlinePDFEditors
@@ -90,9 +114,11 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 
 🌐 https://onlinepdfeditors.com
 
+---
+
 ## 💼 Professional Experience
 
-### 🎯 **Software Developer** | Amdocs
+### 🎯 **Software Developer** | Amdocs *(Former)*
 **Jan 2024 – April 2026** | Maharashtra, India
 
 - ✅ Implemented business requests by creating and deploying application images on **Kubernetes clusters** for the Openet project
@@ -102,7 +128,7 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 - ✅ Orchestrated cloud migration of **Amdocs Billing Product** to AWS
 - ✅ Debugged and monitored **Diameter failures** using Elastic Kibana, improving system reliability by **20%**
 
-### 📋 **Software Engineering Associate** | Amdocs
+### 📋 **Software Engineering Associate** | Amdocs *(Former)*
 **Jun 2022 – Dec 2023** | Maharashtra, India
 
 - ✅ Actively participated in **Agile/Scrum ceremonies** and sprint management
@@ -113,7 +139,7 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 - ✅ Performed UT and IUT for developed functionality
 - ✅ Acquired in-depth business knowledge in telecom industry (ordering, invoicing, charging processes)
 
-### 🎓 **Programmer Analyst Trainee** | Cognizant
+### 💻 **Programmer Analyst Trainee** | Cognizant
 **Jan 2022 – May 2022** | Remote
 
 - ✅ Comprehensive training in **Agile methodologies** and best practices
@@ -159,23 +185,23 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkumar01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisisom)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thisisom1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thisis_om_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkumarsahu747@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### 📞 Contact Information
 
-**📧 Email:** omkumarsahu747@gmail.com  
+**📧 Email:** omkumarsahu747@gmail.com
 
 </div>
 
@@ -183,16 +209,27 @@ A **Software Developer** with 4+ years of experience building scalable microserv
 
 <div align="center">
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=omkumar01.omkumar01)
+![Visitor Counter](https://profile-counter.glitch.me/{omkumar01}/count.svg)
 
 </div>
 
 ---
 
-[github]: https://github.com/omkumar01
-[twitter]: https://twitter.com/thisisom1
-[instagram]: https://www.instagram.com/thisis_om_
-[linkedin]: https://linkedin.com/in/thisisom
-[email]: mailto:omkumarsahu747@gmail.com
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  "Building scalable systems, one microservice at a time."   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Om Kumar Sahu**
+
+</div>
 
