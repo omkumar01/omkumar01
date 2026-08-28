@@ -44,7 +44,7 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=omkumar01&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=omkumar01&theme=tokyonight&hide_border=true)
 
 </div>
 
