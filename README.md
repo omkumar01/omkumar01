@@ -40,9 +40,9 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=omkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkumar01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omkumar01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkumar01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=omkumar01&theme=tokyonight&hide_border=true)
 
@@ -118,7 +118,7 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 ## 💼 Professional Experience
 
-### 🎯 **Software Developer** | Amdocs *(Former)*
+### 🎯 **Software Developer** | Amdocs 
 **Jan 2024 – April 2026** | Maharashtra, India
 
 - ✅ Implemented business requests by creating and deploying application images on **Kubernetes clusters** for the Openet project
@@ -128,7 +128,7 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 - ✅ Orchestrated cloud migration of **Amdocs Billing Product** to AWS
 - ✅ Debugged and monitored **Diameter failures** using Elastic Kibana, improving system reliability by **20%**
 
-### 📋 **Software Engineering Associate** | Amdocs *(Former)*
+### 📋 **Software Engineering Associate** | Amdocs 
 **Jun 2022 – Dec 2023** | Maharashtra, India
 
 - ✅ Actively participated in **Agile/Scrum ceremonies** and sprint management
