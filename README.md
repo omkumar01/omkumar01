@@ -73,16 +73,14 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 ![Terraform](https://img.shields.io/badge/-Terraform-7B49BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### 🤖 **Agentic AI, RAG & LLM**
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/-PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-12BDFF?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412AD8?style=flat-square&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-00A6ED?style=flat-square&logo=llm&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-FF6B35?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-00C9A7?style=flat-square)
-![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![PydanticAI](https://img.shields.io/badge/-PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD166?style=flat-square&logo=huggingface&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-121E87?style=flat-square)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
 
 ### 🗄️ **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
