@@ -92,13 +92,28 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 ---
 
-## 💼 Projects
+## 💼 Recent Projects
+
+### ⛓️ om-harness
+
+>A context-efficient, local-first AI coding agent for real git repositories. It inspects code, plans work, edits files, runs tests, and reports each step.
+
+- **Context-efficient:** bounded repository indexes, role-scoped prompts, trimmed history, and token usage reports.
+- **Reliable orchestration:** inspectable task plans with sequential, parallel, and implement-review workflows.
+- **Safe by design:** permission-aware tools, approval policies, repository path confinement, secret redaction, and guarded shell execution.
+- **Multi-provider:** supports OpenAI, Anthropic, Google/Gemini, mock models, and custom OpenAI-compatible endpoints.
+- **Repository-native tools:** file search and editing, git operations, test detection, and safe command execution.
+- **Durable sessions:** atomic local state, checkpoints, event logs, and resumable runs.
+- **Extensible skills:** progressive-disclosure `SKILL.md` instructions and git-installed plugins.
+- **Developer-friendly:** CLI, interactive terminal shell, web reference client, JSON output, and deterministic offline tests.
+
+**Tech:** `Python` . `PydanticAI` . `Typer` . `FastAPI` . `asyncio`
+
+🌐 [View the project on GitHub](https://github.com/omkumar01/om-harness)
 
 ### 📄 OnlinePDFEditors
 
 > A modern, privacy-first online PDF toolkit built with **Astro + TypeScript** and powered by **Cloudflare Workers**. Files are processed directly in the browser whenever possible, ensuring speed and privacy.
-
-**Tech Stack:** Astro • TypeScript • Cloudflare Workers
 
 - ⚡ Fast edge deployment
 - 🔒 Privacy-focused browser-based processing
@@ -108,7 +123,7 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 **Tech:** `Astro` · `TypeScript` · `Cloudflare Workers`
 
-🌐 https://onlinepdfeditors.com
+🌐 [https://onlinepdfeditors.com](https://onlinepdfeditors.com)
 
 ---
 
