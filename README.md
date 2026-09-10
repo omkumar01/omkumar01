@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0f4c75%2C1a535c%2C4a7c59&height=200&section=header&text=Om%20Kumar%20Sahu&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60&descSize=16)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0f4c75%2C1a535c%2C4a7c59&height=200&section=header&text=Om%20Kumar%20Sahu&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50)
 
 </div>
 
@@ -24,9 +24,9 @@
 
 ## 🚀 About Me
 
-A **Software Developer** with 4+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. I specialize in **Python**, **AWS**, and **Docker+Kubernetes**. I'm passionate about automation, cloud migration, and delivering high-quality software solutions in Agile environments.
+A **Software Developer** with 4+ years of experience building scalable microservices, RESTful APIs, and enterprise solutions. I specialize in **Python**, **AWS**, and **Docker+Kubernetes**. I'm passionate about cutting-edge technologies and cloud-native architectures.
 
-I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieval-Augmented Generation)**, and **LLM** applications — building intelligent systems that can reason, retrieve, and respond.
+I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieval-Augmented Generation)**, and **LLM** applications — building intelligent systems that can reason, retrieve, and respond intelligently.
 
 - 💼 **Professional experience**: Software Developer at Amdocs (Jan 2024 – April 2026)
 - 🎯 **Focus**: Microservices, Cloud Architecture, DevOps, Backend Development, AI/ML
@@ -78,6 +78,8 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 ![LLM](https://img.shields.io/badge/-LLM-00A6ED?style=flat-square&logo=llm&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-FF6B35?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-00C9A7?style=flat-square)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/-PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD166?style=flat-square&logo=huggingface&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-121E87?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
@@ -96,7 +98,7 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 ### 📄 OnlinePDFEditors
 
-> A modern, privacy-first online PDF toolkit built with **Astro + TypeScript** and powered by **Cloudflare Workers**. Files are processed directly in the browser whenever possible, ensuring speed and enhanced privacy without requiring software installation.
+> A modern, privacy-first online PDF toolkit built with **Astro + TypeScript** and powered by **Cloudflare Workers**. Files are processed directly in the browser whenever possible, ensuring speed and privacy.
 
 **Tech Stack:** Astro • TypeScript • Cloudflare Workers
 
@@ -220,4 +222,3 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 **Made with ❤️ by Om Kumar Sahu**
 
 </div>
-
