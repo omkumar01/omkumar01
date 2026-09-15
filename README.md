@@ -196,7 +196,7 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 ## 🌐 Connect with Me
 
-<div align="left">
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkumar01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisisom)
