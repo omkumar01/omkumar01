@@ -109,7 +109,40 @@ I'm currently exploring the fascinating world of **Agentic AI**, **RAG (Retrieva
 
 **Tech:** `Python` . `PydanticAI` . `Typer` . `FastAPI` . `asyncio`
 
-🌐 [View the project on GitHub](https://github.com/omkumar01/om-harness)
+🌐 [View the project on GitHub](https://github.com/omkumar01/om-harness) | 📦 [PyPI](https://pypi.org/project/om-harness/)
+
+### 🔧 Distributed Issue Tracker - FastAPI Microservices
+
+>A production-grade, cloud-native issue management platform built with FastAPI microservices architecture, inspired by Jira and Linear.
+
+- **Microservices Architecture:** 8 independent services with clear boundaries (API Gateway, Auth, User, Project, Issue, Comment, Notification, Search, Audit)
+- **Event-Driven Architecture:** Asynchronous workflows via RabbitMQ with Celery for background task processing
+- **Database-per-Service Pattern:** Data isolation and ownership with PostgreSQL per service
+- **API Gateway Pattern:** Centralized routing, TLS, rate limiting, and JWT validation
+- **Production Observability:** Distributed tracing (OpenTelemetry/Jaeger), metrics (Prometheus/Grafana), and structured logging
+- **Security:** JWT + OAuth2 authentication with RBAC (Role-Based Access Control)
+- **Full-Text Search:** Elasticsearch-powered search with filters and faceted queries
+
+**Tech:** `Python` . `FastAPI` . `PostgreSQL` . `Redis` . `Elasticsearch` . `RabbitMQ` . `Celery` . `Docker` . `Kubernetes` . `OpenTelemetry` . `Prometheus` . `Grafana`
+
+🌐 [View the project on GitHub](https://github.com/omkumar01/Distributed-Issue-Tracker-FastAPI-Microservices) | 📦 [PyPI](https://pypi.org/project/distributed-issue-tracker/)
+
+### 🤖 rag-aio
+
+> Local-first RAG. Eighteen packages. One facade. An asynchronous, modular RAG platform and reusable Python SDK — from OCR to citations in one process.
+
+- **Modular Monorepo:** 18 independently testable and deployable packages composing a full RAG pipeline
+- **Zero-Config Offline Mode:** Fully offline mock profile runs end-to-end with zero services and zero API keys
+- **Vendor-Agnostic:** Protocol-based contracts supporting OpenAI-compatible providers, Qdrant, SQLite, InMemory stores
+- **Observable Pipelines:** Stage timings on every answer, citation provenance, explainable retrieval and reranking
+- **Lazy Loading:** `import rag_aio` stays dependency-light; heavy backends load on demand
+- **Secrets by Reference:** Credentials via env-var references, never inlined; redacted in logs, traces, and UI
+- **Bulk Ingestion:** `rag-mass-inject` with bounded queues, per-stage concurrency, checkpoints, and dead letters
+- **Management Console:** Built-in Streamlit UI for monitoring and management
+
+**Tech:** `Python` . `FastAPI` . `Typer` . `Pydantic` . `Qdrant` . `FastEmbed` . `LangChain` . `OpenTelemetry` . `Streamlit` . `uv`
+
+🌐 [View the project on GitHub](https://github.com/omkumar01/rag-aio) | 📦 [PyPI](https://pypi.org/project/rag-aio/)
 
 ### 📄 OnlinePDFEditors
 
